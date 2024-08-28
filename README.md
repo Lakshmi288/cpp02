@@ -19,4 +19,4 @@ we are using 8bits
 //ex02:
 first a print 0
 then ++a = 0 + 1 
-1/256 = 
+1/256 = 0.0390 - it is printed.
